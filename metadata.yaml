@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5869'
     url: http://www.gutenberg.org/2009/agents/5869
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15127#Pitman-s-Commercial-Spanish-Grammar--2nd-ed.-
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2005-02-21'
 gutenberg_type: Text
