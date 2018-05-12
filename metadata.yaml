@@ -1,0 +1,29 @@
+_repo: Pitman-s-Commercial-Spanish-Grammar--2nd-ed.-_15127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Toledano, C. A.
+    gutenberg_agent_id: '5869'
+    url: http://www.gutenberg.org/2009/agents/5869
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15127'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Spanish language -- Grammar'
+- !lcsh 'Spanish language -- Textbooks for foreign speakers -- English'
+- !lcsh 'Commercial correspondence, Spanish'
+title: Pitman's Commercial Spanish Grammar (2nd ed.)
+url: http://www.gutenberg.org/ebooks/15127
